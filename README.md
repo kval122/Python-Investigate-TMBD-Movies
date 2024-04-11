@@ -6,5 +6,7 @@ In this analysis we are focusing on the relationship between average vote, movie
 The questions we would like to know about this data are:
 
 Does the runtime of the movie have an effect on the vote average?
+
 How has movie runtime changed over the years?
+
 How has vote average changed over the years?

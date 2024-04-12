@@ -10,7 +10,7 @@ This project delves into the fascinating world of movies using data from The Mov
 
 **Data:**
 
-* Source: Udacity (link the dataset source if available)
+* Source: Udacity 
 * Format: CSV (Comma-Separated Values)
 
 **Project Structure:**

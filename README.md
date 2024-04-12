@@ -1,12 +1,25 @@
-# Python-Investigate-TMBD-Movies
-This project will involve an in-depth analysis of data describing 100k movies collected from The Movie Database (TMDB).
+Title: TMDB Movie Exploration with Python
 
-In this analysis we are focusing on the relationship between average vote, movie runtime and release year.
+Description:
 
-The questions we would like to know about this data are:
+This project delves into the fascinating world of movies using data from The Movie Database (TMDB). We'll leverage the power of Python libraries like NumPy, Pandas, Matplotlib, and Seaborn to uncover insights into movie runtime, average vote, and release year relationships.
 
-Does the runtime of the movie have an effect on the vote average?
+Key Questions:
 
-How has movie runtime changed over the years?
+Does movie runtime impact the average vote?
+How has movie runtime evolved over time?
+How has average vote changed throughout the years?
+Data:
 
-How has vote average changed over the years?
+Source: Udacity (link the dataset source if available)
+Format: CSV (Comma-Separated Values)
+Project Structure:
+
+data/: Contains the TMDB movie data (CSV file)
+notebooks/: Houses Jupyter Notebook files for analysis and visualizations
+Dependencies:
+
+NumPy
+Pandas
+Matplotlib
+Seaborn

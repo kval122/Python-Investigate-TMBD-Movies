@@ -1,7 +1,5 @@
 # TMDB Movie Exploration with Python
 
-https://github.com/kval122/Python-TMDB-Movie-Exploration/blob/main/TMBD%20Analysis%20JupyterNotebook 
-
 This project delves into the fascinating world of movies using data from The Movie Database (TMDB). We'll leverage the power of Python libraries like NumPy, Pandas, Matplotlib, and Seaborn to uncover insights into movie runtime, average vote, and release year relationships.
 
 **Key Questions:**
